@@ -26,9 +26,9 @@ Membuat program untuk menampilkan bilangan terbesar dari n buah data yang diinpu
 9.Mencetak nilai paling terbesarv setelah break, sehingga menampilkan nilai terbesar diantara bilangan tersebut dalam perulangan.
 10.selesai
 syntax latihan02 sebagai berikut :
-# ![GitHub Logo](latihan02syntax.png) <h2>
+# ![GitHub Logo](latihan02syntaxl.png) <h2>
 hasil output latihan02
-# ![GitHub Logo](latihan02hasil.png) <h2>
+# ![GitHub Logo](latihan02hasill.png) <h2>
 Soal program 1 :
 Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal awal 100 juta,
 Pada bulan pertama dan kedua belum mendapatkan laba.
